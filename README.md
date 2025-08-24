@@ -54,25 +54,22 @@ I believe the next breakthrough in AI lies not just in scaling models, but in un
 
 <br>
 
-## 📊 GitHub Stats
+i## 📊 GitHub Stats
+
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=Fliptoss&theme=dark&hide_border=false&background=000000" width="100%" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fliptoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=000000" width="100%" /></td>
+      <td align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=Fliptoss&theme=dark&hide_border=false&background=000000" alt="GitHub Streak" width="480" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Fliptoss&theme=dark&hide_border=false&bg_color=000000&title_color=FFF&text_color=AAA" alt="GitHub Stats" width="480" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fliptoss&theme=dark&hide_border=false&layout=compact&bg_color=000000&langs_count=8" alt="Top Languages" width="960" />
+      </td>
     </tr>
   </table>
 </div>
-
-<br>
-
-<div align="center">
-  ---
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Fliptoss&icon=0&color=0" />
-  </a>
-</div>
-
-<br>
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
