@@ -21,14 +21,6 @@ I believe the next breakthrough in AI lies not just in scaling models, but in un
 
 *Always excited to collaborate on projects that push the boundaries of what's possible with language models and intelligent agents.*
 
-<br>
-
-## 🌐 Socials
-<div align="center>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-mahmud-14b699244/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sameermahmud946@gmail.com)
-</div>
-
-<br>
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
