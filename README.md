@@ -2,7 +2,6 @@
 
 I'm a researcher and practitioner exploring the frontiers of artificial intelligence, with a particular focus on **Large Language Models** and **AI agents**. Currently diving deep into the mechanics of how models learn and adapt through context.
 
-<br>
 
 ## 🔬 Research Interests
 - **In-Context Learning**: Investigating how LLMs acquire and utilize new information without parameter updates  
