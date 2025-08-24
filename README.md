@@ -53,23 +53,3 @@ I believe the next breakthrough in AI lies not just in scaling models, but in un
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 <br>
-
-i## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Fliptoss&theme=dark&hide_border=false&background=000000" alt="GitHub Streak" width="480" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fliptoss&theme=dark&hide_border=false&bg_color=000000&title_color=FFF&text_color=AAA" alt="GitHub Stats" width="480" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fliptoss&theme=dark&hide_border=false&layout=compact&bg_color=000000&langs_count=8" alt="Top Languages" width="960" />
-      </td>
-    </tr>
-  </table>
-</div>
