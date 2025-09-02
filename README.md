@@ -5,5 +5,6 @@ My name is Sameer Mahmud and I am humble learner. I am also a Computer Science S
 Interests?
 - Machine Learning and AI (mostly interested lets just say AI can't remember where it is and I would love to do researches on those things).
 - I love Go (learning it), Rust (I would love to explore it), Python (Ah, I don't wanna work with AI and stuff).
+- Currently I am working with AI Agents and getting my hands dirty. 
 - Sometimes gaming I guess.
   
